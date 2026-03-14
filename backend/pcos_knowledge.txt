@@ -1,0 +1,14 @@
+PCOS (Polycystic Ovary Syndrome) is a hormonal disorder.
+
+Symptoms:
+- Irregular periods
+- Acne
+- Weight gain
+- Excess hair growth
+- infertility
+
+Diagnosis:
+Rotterdam criteria (2 of 3):
+- irregular ovulation
+- high androgen
+- polycystic ovaries
